@@ -1,0 +1,7 @@
+numpy
+pandas
+kaggle
+sqlalchemy
+ipython
+pymysql
+psycopg2
